@@ -1,15 +1,10 @@
 # palbot
 
-To install dependencies:
+dependencies:
 
-```bash
-bun install
-```
+a C compiler like gcc or clang.
+GNU Make
 
-To run:
+to run:
 
-```bash
-bun run src/index.ts
-```
-
-This project was created using `bun init` in bun v1.1.12. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+This project was created using `pure C`, and is using GNU Make. compile using `make` command.
